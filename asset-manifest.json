@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/morney-react/static/css/main.d8bd3ef7.chunk.css",
+    "main.js": "/morney-react/static/js/main.592e8a88.chunk.js",
+    "main.js.map": "/morney-react/static/js/main.592e8a88.chunk.js.map",
+    "runtime-main.js": "/morney-react/static/js/runtime-main.315c304a.js",
+    "runtime-main.js.map": "/morney-react/static/js/runtime-main.315c304a.js.map",
+    "static/js/2.f6e4be71.chunk.js": "/morney-react/static/js/2.f6e4be71.chunk.js",
+    "static/js/2.f6e4be71.chunk.js.map": "/morney-react/static/js/2.f6e4be71.chunk.js.map",
+    "static/js/3.7a50040d.chunk.js": "/morney-react/static/js/3.7a50040d.chunk.js",
+    "static/js/3.7a50040d.chunk.js.map": "/morney-react/static/js/3.7a50040d.chunk.js.map",
+    "index.html": "/morney-react/index.html",
+    "static/css/main.d8bd3ef7.chunk.css.map": "/morney-react/static/css/main.d8bd3ef7.chunk.css.map",
+    "static/js/2.f6e4be71.chunk.js.LICENSE.txt": "/morney-react/static/js/2.f6e4be71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.315c304a.js",
+    "static/js/2.f6e4be71.chunk.js",
+    "static/css/main.d8bd3ef7.chunk.css",
+    "static/js/main.592e8a88.chunk.js"
+  ]
+}
